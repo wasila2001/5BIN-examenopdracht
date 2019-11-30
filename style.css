@@ -1,0 +1,56 @@
+body{
+  background-image: url(http://images.unsplash.com/photo-1490818387583-1baba5e638af?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max);
+  background-position: center 70px;
+  background-repeat: no-repeat;
+  background-color: #fae6ee;
+  
+}
+
+* {
+ padding: 0;
+ margin: 8px;
+ font-family: Lucida Handwriting;
+ border-radius: 10px;
+}
+ 
+.menu {
+ margin: 5px;
+ padding: 5px;
+ border: 1px solid black;
+ text-align: center;
+}
+ 
+.menu ul li {
+ display: inline;
+ padding: 0 5px;
+}
+ 
+.menu ul li a, a:link, a:visited, a:active {
+ color: #000000;
+ text-decoration: none;
+}
+ 
+.menu ul li a:hover {
+ color: #000000;
+ text-decoration: underline;
+}
+
+h1 {
+  font-family: Lucida Handwriting;
+  text-align: center;
+  margin-top: 150px;
+  font-size: 50px;
+  
+
+}
+
+
+
+
+
+
+
+
+
+
+
